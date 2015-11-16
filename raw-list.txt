@@ -38,3 +38,5 @@ https://www.wechall.net/
 https://www.wechall.net/active_sites
 http://www.cis.syr.edu/~wedu/seed/all_labs.html
 https://news.hitb.org/
+https://stucco.github.io/data/
+https://github.com/toolswatch/vFeed
