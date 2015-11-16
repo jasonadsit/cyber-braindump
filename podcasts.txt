@@ -1,0 +1,6 @@
+http://podcast.wh1t3rabbit.net/rss
+https://www.digitalbond.com/feed/podcast/
+https://www.trustedsec.com/feed/
+http://www.social-engineer.org/feed/
+http://securityweekly.com/podcast/psw.xml
+http://leoville.tv/podcasts/sn.xml
