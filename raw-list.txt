@@ -43,3 +43,4 @@ https://github.com/toolswatch/vFeed
 http://opensecuritytraining.info/Training.html
 https://ruxcon.org.au/speakers/#Ilja%20Van%20Sprundel
 http://opensecuritytraining.info/External_Resources.html
+http://legbacore.com/Lexicon.html
