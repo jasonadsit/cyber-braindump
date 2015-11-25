@@ -44,3 +44,14 @@ http://opensecuritytraining.info/Training.html
 https://ruxcon.org.au/speakers/#Ilja%20Van%20Sprundel
 http://opensecuritytraining.info/External_Resources.html
 http://legbacore.com/Lexicon.html
+http://netbootcamp.org/osinttools/
+https://medium.com/@Journalism2ls/75-tools-for-investigative-journalists-7df8b151db35
+http://www.subliminalhacking.net/2012/12/27/osint-tools-recommendations-list/
+http://widget.websta.me/rss/n/<insert instagram username here>
+https://www.linkedin.com/vsearch/ic?type=content&keywords=cyber
+https://github.com/TransparencyToolkit
+https://raw.githubusercontent.com/TransparencyToolkit/NSA-Data/master/nsadocs.json
+http://www.heapr.com/
+https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs/mobilebasic?pli=1
+https://urlquery.net/
+https://webcache.googleusercontent.com/search?q=cache:<insert full url here>
