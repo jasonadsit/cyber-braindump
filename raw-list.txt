@@ -41,7 +41,6 @@ http://www.cis.syr.edu/~wedu/seed/all_labs.html
 https://news.hitb.org/
 https://stucco.github.io/data/
 https://github.com/toolswatch/vFeed
-<<<<<<< HEAD
 https://ccdcoe.org/sites/default/files/multimedia/pdf/3_3_Applegate_ThePrincipleOfManeuverInCyberOperations.pdf
 https://www.afcea.org/events/tnlf/east12/documents/4V3EffSynchIntEffthruCybrspcforJtWarfighter_forpublicrelease.pdf
 https://csis.org/files/publication/130916_Leed_OffensiveCyberCapabilities_Web.pdf
@@ -57,20 +56,3 @@ http://www.kiri.or.kr/pdf/전문자료/KIRI_20151106_175320.pdf
 http://panyunf.cn/travelnews/20151027/555.html
 http://toinformistoinfluence.com/category/cyberwar/
 http://www.conflictstudies.org.uk/files/Giles-Russia_Public_Stance.pdf
-=======
-http://opensecuritytraining.info/Training.html
-https://ruxcon.org.au/speakers/#Ilja%20Van%20Sprundel
-http://opensecuritytraining.info/External_Resources.html
-http://legbacore.com/Lexicon.html
-http://netbootcamp.org/osinttools/
-https://medium.com/@Journalism2ls/75-tools-for-investigative-journalists-7df8b151db35
-http://www.subliminalhacking.net/2012/12/27/osint-tools-recommendations-list/
-http://widget.websta.me/rss/n/<insert instagram username here>
-https://www.linkedin.com/vsearch/ic?type=content&keywords=cyber
-https://github.com/TransparencyToolkit
-https://raw.githubusercontent.com/TransparencyToolkit/NSA-Data/master/nsadocs.json
-http://www.heapr.com/
-https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs/mobilebasic?pli=1
-https://urlquery.net/
-https://webcache.googleusercontent.com/search?q=cache:<insert full url here>
->>>>>>> 639d7916c677e006e5aade5c19b83dbb906bf417
