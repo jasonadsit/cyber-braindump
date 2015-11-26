@@ -1,3 +1,4 @@
+http://www.spiderfoot.net/
 http://xlab.tencent.com/
 http://cryptopals.com/
 http://www.zynamics.com/binnavi.html
@@ -40,3 +41,18 @@ http://www.cis.syr.edu/~wedu/seed/all_labs.html
 https://news.hitb.org/
 https://stucco.github.io/data/
 https://github.com/toolswatch/vFeed
+https://ccdcoe.org/sites/default/files/multimedia/pdf/3_3_Applegate_ThePrincipleOfManeuverInCyberOperations.pdf
+https://www.afcea.org/events/tnlf/east12/documents/4V3EffSynchIntEffthruCybrspcforJtWarfighter_forpublicrelease.pdf
+https://csis.org/files/publication/130916_Leed_OffensiveCyberCapabilities_Web.pdf
+http://smallwarsjournal.com/printpdf/31862
+http://jobs.saic.com/job/Fort-George-G-Meade-CyberSpace-Fires-AnalystPlanner-Job-MD-20755/232908500/
+http://www.aors.army.mil/2015_AORS_Cyber_Analysis_Abstracts.pdf
+http://www.au.af.mil/au/afri/aspj/digital/pdf/articles/Jan-Feb-2013/F-Lee.pdf
+http://archive.defense.gov/pubs/law-of-war-manual-june-2015.pdf
+https://www.fbo.gov/utils/view?id=185ca85709407f796ae81cb348f167bb
+https://www.fas.org/sgp/crs/misc/R44069.pdf
+https://www.whitehouse.gov/the-press-office/2015/02/25/presidential-memorandum-establishment-cyber-threat-intelligence-integrat
+http://www.kiri.or.kr/pdf/전문자료/KIRI_20151106_175320.pdf
+http://panyunf.cn/travelnews/20151027/555.html
+http://toinformistoinfluence.com/category/cyberwar/
+http://www.conflictstudies.org.uk/files/Giles-Russia_Public_Stance.pdf

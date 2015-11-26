@@ -1,0 +1,9 @@
+https://www.milsuite.mil/book/blogs/CipherScruples/feeds/posts
+https://www.dtic.mil/REGateway/blogs/CipherScruples/feeds/posts
+https://isites.intelink.gov/personal/jason_l_adsit/Blog/_layouts/15/listfeed.aspx?List={C5B702F8-09DA-4ABC-8D58-13D9B9437229}
+https://jasonadsit.wordpress.com/?feed=rss2
+http://jasonadsit.blogspot.com/feeds/posts/default?alt=rss
+https://www.facebook.com/feeds/notifications.php?id=100000583776514&viewer=100000583776514&key=AWhE7uvxMLI2L7Zf&format=rss20
+https://bookmarks.intelink.gov/jason.l.adsit?format=atom
+https://govspace.oregon.gov/blogs/CipherScruples/feeds/posts
+https://medium.com/feed/@CipherScruples
