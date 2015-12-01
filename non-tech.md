@@ -12,3 +12,11 @@
 #### Offensive Cyber is Fires, A Case for MAGTF Integration
 [http://www.dtic.mil/get-tr-doc/pdf?AD=ADA601532](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA601532)
 
+#### Strategic Cyber Intelligence
+[http://issuu.com/insalliance/docs/strategiccyberintelligence](http://issuu.com/insalliance/docs/strategiccyberintelligence)
+
+#### A Buyer's Guide to Cyber Liability Insurance Coverage
+[http://issuu.com/hollandknight/docs/cyber_liability_coverageissuu](http://issuu.com/hollandknight/docs/cyber_liability_coverageissuu)
+
+#### 
+[http://issuu.com/openbriefing/docs/usccreport](http://issuu.com/openbriefing/docs/usccreport)
