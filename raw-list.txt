@@ -1,4 +1,4 @@
-http://www.spiderfoot.net/
+﻿http://www.spiderfoot.net/
 http://xlab.tencent.com/
 http://cryptopals.com/
 http://www.zynamics.com/binnavi.html
@@ -72,3 +72,5 @@ http://www.dtic.mil/dtic/tr/fulltext/u2/a543294.pdf
 http://www.strategicstudiesinstitute.army.mil/pubs/Parameters/issues/Winter_2013/11_CilluffoandClark.pdf
 https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-59-no-1/pdfs/Intelligence-Officers-Bookshelf.pdf
 https://www.fas.org/sgp/crs/natsec/R43955.pdf
+https://codebreaker.ltsnet.net/resources
+http://magazine.milcyber.org/stories/learntofight
