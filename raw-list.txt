@@ -1,4 +1,6 @@
-﻿http://www.spiderfoot.net/
+﻿https://media.ccc.de/b/congress/2015
+https://cdn.media.ccc.de/congress/2015/
+http://www.spiderfoot.net/
 http://xlab.tencent.com/
 http://cryptopals.com/
 http://www.zynamics.com/binnavi.html
