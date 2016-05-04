@@ -1,8 +1,16 @@
-# [IT Specialist (SYSADMIN) - GS 2210] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf)  
+# [IT Specialist (SYSADMIN) - GS 2210](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf)  
 
-Just a few resume bullets scraped off the OPM website. Go [here] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33) to see how the points system works. Convert the total points to a grade using the Grade Conversion Table and record the grade in the Summary section of the Worksheet. The shaded portions of the table reflect the most commonly found grades in this job family.  
+Just a few resume bullets scraped off the OPM website. Go [here](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33) to see how the points system works. Convert the total points to a grade using the Grade Conversion Table and record the grade in the Summary section of the Worksheet. The shaded portions of the table reflect the most commonly found grades in this job family.  
 
 ![](https://raw.githubusercontent.com/jasonadsit/cyber-braindump/master/grade-conv-chart.PNG "Grade Conversion Table")  
+
+**If you want to dig in, here's a few more resources:**  
+* [The Classifier's Handbook](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/classifierhandbook.pdf)  
+* [GS-2210 Special Salary Rates](https://apps.opm.gov/SpecialRates/2016/Table999C01012016.aspx)  
+* [FasClass](https://acpol2.army.mil/fasclass/search_fs/search_fasclass.asp)  
+* [PushButtonPD](https://niccs.us-cert.gov/training/dhs-cmsi-pushbuttonpd)  
+
+You've got to hack the system. Too many talented hackers get passed over for higher grade positions because they can't get a resume through HR.
 
 ## [Factor 1: Knowledge Required by the Position] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33&zoom=auto,0,666)  
 
@@ -94,7 +102,7 @@ Just a few resume bullets scraped off the OPM website. Go [here] (https://www.op
 * new technologies  
 * project management principles and methods sufficient to develop and present plans for integrating new server technology into existing architecture  
 
-## [Factor 2: Supervisory Controls] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=55&zoom=auto,0,695)  
+## [Factor 2: Supervisory Controls](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=55&zoom=auto,0,695)  
 
 ### Level 2-1: 25 Points  
 
@@ -185,7 +193,7 @@ Just a few resume bullets scraped off the OPM website. Go [here] (https://www.op
  * normally accepts work as being technically authoritative  
  * normally accepts work without significant change  
 
-## [Factor 3: Guidelines] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=58&zoom=auto,0,695)  
+## [Factor 3: Guidelines](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=58&zoom=auto,0,695)  
 
 ### Level 3-1: 25 Points  
 
@@ -249,7 +257,7 @@ Just a few resume bullets scraped off the OPM website. Go [here] (https://www.op
 
 Top agency management officials and senior staff recognize the employee as a technical expert.  
 
-## [Factor 4: Complexity] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=62&zoom=auto,0,695)  
+## [Factor 4: Complexity](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=62&zoom=auto,0,695)  
 
 ### Level 4-2: 75 Points  
 
@@ -370,7 +378,7 @@ Top agency management officials and senior staff recognize the employee as a tec
 **Difficulty and Originality Involved**  
 * Provides authoritative technical advice and guidance to systems administrators throughout the agency in responding to serious systems threats.  
 
-## [Factor 5: Scope and Effect] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=67&zoom=auto,0,695)  
+## [Factor 5: Scope and Effect](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=67&zoom=auto,0,695)  
 
 ### Level 5-1: 25 Points  
 
@@ -434,7 +442,7 @@ Work ensures the organization’s ability to continue operations in the event of
 **Effect of the Work**  
 * Work enables the agency to manage critical business knowledge effectively, efficiently, and securely.  
 
-## [Factor 6: Personal Contacts (30-330 Points)] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=72&zoom=auto,0,695)  
+## [Factor 6: Personal Contacts (30-330 Points)](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=72&zoom=auto,0,695)  
 
 ![](https://raw.githubusercontent.com/jasonadsit/cyber-braindump/master/6and7.PNG "Point Assignment Chart")  
 
@@ -476,7 +484,7 @@ To present, justify, defend, negotiate, or settle matters involving significant 
 ### Level 8-1: 5 Points  
 The work is sedentary. Some work may require walking and standing in conjunction with travel and to attendance at meetings and conferences away from the work site. Some employees may carry light items, such as papers, books, or small parts, or drive a motor vehicle. The work does not require any special physical effort.  
 
-## [Factor 9: Work Environment] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=75&zoom=auto,0,367)  
+## [Factor 9: Work Environment](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=75&zoom=auto,0,367)  
 
 ### Level 9-1: 5 Points  
 The work area is adequately lighted, heated, and ventilated. The work environment involves everyday risks or discomforts that require normal safety precautions.  Some employees may occasionally be exposed to uncomfortable conditions in such places as research and production facilities.  
