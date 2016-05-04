@@ -9,6 +9,7 @@ Just a few resume bullets scraped off the OPM website. Go [here](https://www.opm
 * [GS-2210 Special Salary Rates](https://apps.opm.gov/SpecialRates/2016/Table999C01012016.aspx)  
 * [FasClass](https://acpol2.army.mil/fasclass/search_fs/search_fasclass.asp)  
 * [PushButtonPD](https://niccs.us-cert.gov/training/dhs-cmsi-pushbuttonpd)  
+* [Some Current Events](https://www.google.com/search?q=%5B(site:%22*.gov%22+%7C+site:%22*.mil%22)+(filetype:pdf+%7C+filetype:pdfx+%7C+filetype:pptx+%7C+filetype:docx+%7C+filetype:xlsx)+(%22cyber%22+%22national.guard%22+%22homeland.defense%22)%5D&tbs=qdr:m)
 
 You've got to hack the system. Too many talented hackers get passed over for higher grade positions because they can't get a resume through HR.
 
