@@ -1,5 +1,5 @@
 # [IT Specialist (SYSADMIN) - GS 2210] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf)  
-## Factor 1: Knowledge Required by the Position  
+## [Factor 1: Knowledge Required by the Position] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33&zoom=auto,0,666)  
 
 ### Level 1-5: 750 Points  
 
@@ -89,7 +89,7 @@
 * new technologies  
 * project management principles and methods sufficient to develop and present plans for integrating new server technology into existing architecture  
 
-## Factor 2: Supervisory Controls  
+## [Factor 2: Supervisory Controls] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=55&zoom=auto,0,695)  
 
 ### Level 2-1: 25 Points  
 
@@ -180,7 +180,7 @@
  * normally accepts work as being technically authoritative  
  * normally accepts work without significant change  
 
-## Factor 3: Guidelines  
+## [Factor 3: Guidelines] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=58&zoom=auto,0,695)  
 
 ### Level 3-1: 25 Points  
 
@@ -244,7 +244,7 @@
 
 Top agency management officials and senior staff recognize the employee as a technical expert.  
 
-## Factor 4: Complexity  
+## [Factor 4: Complexity] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=62&zoom=auto,0,695)  
 
 ### Level 4-2: 75 Points  
 
@@ -365,7 +365,7 @@ Top agency management officials and senior staff recognize the employee as a tec
 **Difficulty and Originality Involved**  
 * Provides authoritative technical advice and guidance to systems administrators throughout the agency in responding to serious systems threats.  
 
-## Factor 5: Scope and Effect  
+## [Factor 5: Scope and Effect] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=67&zoom=auto,0,695)  
 
 ### Level 5-1: 25 Points  
 
@@ -429,7 +429,7 @@ Work ensures the organization’s ability to continue operations in the event of
 **Effect of the Work**  
 * Work enables the agency to manage critical business knowledge effectively, efficiently, and securely.  
 
-## Factor 6: Personal Contacts (30-330 Points)  
+## [Factor 6: Personal Contacts (30-330 Points)] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=72&zoom=auto,0,695)  
 
 ### Level 1:  
 Other employees in the immediate office or related offices. Limited contacts with the public.  
@@ -450,7 +450,7 @@ Typical contacts at this level include:
 * executives of comparable private sector organizations; leaders of national stakeholder and/or interest groups  
 * nationally recognized representatives of the news media on IT matters of national importance.  
 
-## Factor 7: Purpose of Contacts (Points Integrated with Factor 6)  
+## [Factor 7: Purpose of Contacts (Points Integrated with Factor 6)] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=72&zoom=auto,0,660)  
 
 ### Level A:  
 To acquire, clarify, or exchange information needed to complete the assignments, regardless of the nature of the information.  The information may range from easily understood to highly technical.  
@@ -469,7 +469,7 @@ To present, justify, defend, negotiate, or settle matters involving significant 
 ### Level 8-1: 5 Points  
 The work is sedentary. Some work may require walking and standing in conjunction with travel and to attendance at meetings and conferences away from the work site. Some employees may carry light items, such as papers, books, or small parts, or drive a motor vehicle. The work does not require any special physical effort.  
 
-## Factor 9: Work Environment  
+## [Factor 9: Work Environment] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=75&zoom=auto,0,367)  
 
 ### Level 9-1: 5 Points  
 The work area is adequately lighted, heated, and ventilated. The work environment involves everyday risks or discomforts that require normal safety precautions.  Some employees may occasionally be exposed to uncomfortable conditions in such places as research and production facilities.  
