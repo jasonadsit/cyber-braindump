@@ -1,4 +1,7 @@
 # [IT Specialist (SYSADMIN) - GS 2210] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf)  
+
+Just a few resume bullets scraped off the OPM website. Go [here] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33) to see how the points system works.
+
 ## [Factor 1: Knowledge Required by the Position] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33&zoom=auto,0,666)  
 
 ### Level 1-5: 750 Points  
@@ -430,6 +433,8 @@ Work ensures the organization’s ability to continue operations in the event of
 * Work enables the agency to manage critical business knowledge effectively, efficiently, and securely.  
 
 ## [Factor 6: Personal Contacts (30-330 Points)] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=72&zoom=auto,0,695)  
+
+There's a break-down of the points for Factors 6 and 7 [here] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=74) 
 
 ### Level 1:  
 Other employees in the immediate office or related offices. Limited contacts with the public.  
