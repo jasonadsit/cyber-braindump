@@ -1,6 +1,7 @@
 # [IT Specialist (SYSADMIN) - GS 2210] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf)  
 
-Just a few resume bullets scraped off the OPM website. Go [here] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33) to see how the points system works.
+Just a few resume bullets scraped off the OPM website. Go [here] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33) to see how the points system works. Convert the total points to a grade using the Grade Conversion Table and record the grade in the Summary section of the Worksheet. The shaded portions of the table reflect the most commonly found grades in this job family.  
+[] ()
 
 ## [Factor 1: Knowledge Required by the Position] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33&zoom=auto,0,666)  
 
