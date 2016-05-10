@@ -76,3 +76,6 @@ https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publication
 https://www.fas.org/sgp/crs/natsec/R43955.pdf
 https://codebreaker.ltsnet.net/resources
 http://magazine.milcyber.org/stories/learntofight
+https://github.com/meirwah/awesome-incident-response
+https://github.com/sindresorhus/awesome
+https://github.com/hslatman/awesome-threat-intelligence
