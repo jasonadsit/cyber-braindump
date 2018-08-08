@@ -13,7 +13,7 @@ Just a few resume bullets scraped off the OPM website. Go [here](https://www.opm
 
 You've got to hack the system. Too many talented hackers get passed over for higher grade positions because they can't get a resume through HR.
 
-## [Factor 1: Knowledge Required by the Position] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33&zoom=auto,0,666)  
+## [Factor 1: Knowledge Required by the Position](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=33&zoom=auto,0,666)  
 
 ### Level 1-5: 750 Points  
 
