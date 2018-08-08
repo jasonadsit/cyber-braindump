@@ -466,7 +466,7 @@ Typical contacts at this level include:
 * executives of comparable private sector organizations; leaders of national stakeholder and/or interest groups  
 * nationally recognized representatives of the news media on IT matters of national importance.  
 
-## [Factor 7: Purpose of Contacts (Points Integrated with Factor 6)] (https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=72&zoom=auto,0,660)  
+## [Factor 7: Purpose of Contacts (Points Integrated with Factor 6)](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/2200/gs2200a.pdf#page=72&zoom=auto,0,660)  
 
 ### Level A:  
 To acquire, clarify, or exchange information needed to complete the assignments, regardless of the nature of the information.  The information may range from easily understood to highly technical.  
