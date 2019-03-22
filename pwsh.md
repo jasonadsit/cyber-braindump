@@ -1,5 +1,5 @@
-#List of PowerShell References  
-  
+#PowerShell References  
+Things that have helped me along over the years   
 ##Learn Windows PowerShell in a Month of Lunches - Don Jones  
 [https://www.youtube.com/watch?v=6CRTahGYnws&list=PL6D474E721138865A](https://www.youtube.com/watch?v=6CRTahGYnws&list=PL6D474E721138865A)  
 ##Best Practices for Script Design - Don Jones  
