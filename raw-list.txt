@@ -1,4 +1,5 @@
-﻿http://www.csl.army.mil/usacsl/Publications/Strategic_Cyberspace_Operations_Guide_1_June_2016.pdf
+https://github.com/cirosantilli/x86-bare-metal-examples
+http://www.csl.army.mil/usacsl/Publications/Strategic_Cyberspace_Operations_Guide_1_June_2016.pdf
 https://media.ccc.de/b/congress/2015
 https://cdn.media.ccc.de/congress/2015/
 http://www.spiderfoot.net/
