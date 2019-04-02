@@ -1,5 +1,5 @@
 https://github.com/cirosantilli/x86-bare-metal-examples
-https://csl.armywarcollege.edu/usacsl/Publications/Cyber%20Strategic%20Guide%20FINAL%202017%2007%2024.pdf
+https://csl.armywarcollege.edu/USACSL/Publications/Strategic_Cyberspace_Operations_Guide.pdf
 https://media.ccc.de/b/congress/2015
 https://cdn.media.ccc.de/congress/2015/
 http://www.spiderfoot.net/
