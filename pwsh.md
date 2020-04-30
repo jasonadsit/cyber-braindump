@@ -23,7 +23,7 @@ Things that have helped me along over the years
 ## The Monad Manifesto, Annotated - Jeffrey Snover  
 [https://leanpub.com/s/4W-ob-YDw2LE2aSMyosCtA.pdf](https://leanpub.com/s/4W-ob-YDw2LE2aSMyosCtA.pdf)  
 ## Windows PowerShell Networking Guide  
-[https://leanpub.com/s/QRQJjPFKqmeA7Hw5Cgk-KA.pdf](https://leanpub.com/s/QRQJjPFKqmeA7Hw5Cgk-KA.pdf)  
+[https://leanpub.com/s/gd6PWWuqJndD8Lpk0KQoRg.pdf](https://leanpub.com/s/gd6PWWuqJndD8Lpk0KQoRg.pdf)  
 ## Why PowerShell? - Warren Frame & Don Jones  
 [https://leanpub.com/s/aQDRwmoOi940mX_EB6N7Yg.pdf](https://leanpub.com/s/aQDRwmoOi940mX_EB6N7Yg.pdf)  
 ## The Big Book of PowerShell Gotchas - Don Jones  
