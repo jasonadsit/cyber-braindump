@@ -111,7 +111,6 @@ https://www.cvedetails.com/vulnerability-list/vendor_id-95/product_id-15063/Wind
 http://thesauceofutterpwnage.blogspot.com/2010/08/metasploit-vxworks-wdb-agent-attack.html
 https://vimeo.com/189009021
 http://shell-storm.org/blog/Shellcode-On-ARM-Architecture/
-https://vimeo.com/112388286
 https://github.com/HackerFantastic/Public/blob/master/presentations/44con-greedyBTS.pdf
 http://cdn.media.ccc.de/congress/2013/webm/30c3-5380-en-de-Persistent_Stealthy_Remote-controlled_Dedicated_Hardware_Malware_webm.webm
 https://2459d6dc103cb5933875-c0245c5c937c5dedcca3f1764ecc9b2f.ssl.cf2.rackcdn.com/woot14/deshotels.mp4
